@@ -1,0 +1,7 @@
+export { default as StorePage } from "./Store"
+export { default as LoginPage } from "./Login"
+export { default as ProductPage } from "./Products"
+export { default as OrdersPage } from "./Orders"
+export { default as AddNewStorePage } from "./AddStore"
+export { default as EditStorePage } from "./EditStore"
+export { default as AddNewProductPage } from "./AddProduct"
